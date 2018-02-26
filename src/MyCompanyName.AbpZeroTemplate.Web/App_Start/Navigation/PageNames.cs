@@ -27,7 +27,7 @@ namespace MyCompanyName.AbpZeroTemplate.Web.Navigation
                 public const string Dashboard = "Dashboard.Tenant";
                 public const string Settings = "Administration.Settings.Tenant";
                 public const string Basicdata = "Basicdata";
-                //public const string SupplierManagement = "SupplierManagement";
+                public const string SupplierManagement = "SupplierManagement";
             }
         }
 

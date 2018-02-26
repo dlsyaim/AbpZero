@@ -41,7 +41,13 @@ namespace MyCompanyName.AbpZeroTemplate.Web.Areas.Mpa.Startup
 　　                url: "Mpa/Basicdata",//菜单路径
 　　                icon: "icon-globe",//菜单图标
                    requiredPermissionName: AppPermissions.Pages_Administration_Basicdata//菜单权限，登录用户所在角色有此权限才会显示出来
-                )).AddItem(new MenuItemDefinition(
+                ).AddItem(new MenuItemDefinition(
+                    PageNames.App.Tenant.SupplierManagement,//一个常量，控制菜单是否被选中
+　　                L("SupplierManagement"),//菜单显示名称，在语言文件中配置
+　　                url: "Mpa/SupplierManagement",//菜单路径
+　　                icon: "icon-globe",//菜单图标
+                   requiredPermissionName: AppPermissions.Pages_Administration_Basicdata//菜单权限，登录用户所在角色有此权限才会显示出来
+                ))).AddItem(new MenuItemDefinition(
                     PageNames.App.Common.Administration,
                     L("Administration"),
                     icon: "icon-wrench"

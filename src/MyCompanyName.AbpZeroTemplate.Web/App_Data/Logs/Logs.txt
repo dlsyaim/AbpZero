@@ -16517,3 +16517,182 @@ DEBUG 2018-02-25 22:46:15,940 [42   ] Abp.Web.SignalR.Hubs.AbpCommonHub        -
 DEBUG 2018-02-25 22:46:15,967 [24   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is registered: ab9f454e-016b-425e-ba09-5cf1623b7893
 DEBUG 2018-02-25 22:46:51,905 [44   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: ab9f454e-016b-425e-ba09-5cf1623b7893
 DEBUG 2018-02-25 22:46:51,929 [17   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: 4596eaa7-f02a-44be-90c5-2da440b0e7d9
+DEBUG 2018-02-26 21:09:35,434 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2018-02-26 21:09:35,451 [1    ] Abp.Modules.AbpModuleManager             - Found 21 ABP modules in total.
+DEBUG 2018-02-26 21:09:35,457 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: MyCompanyName.AbpZeroTemplate.Web.AbpZeroTemplateWebModule, MyCompanyName.AbpZeroTemplate.Web, Version=4.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-02-26 21:09:35,458 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.Mvc.AbpWebMvcModule, Abp.Web.Mvc, Version=2.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-02-26 21:09:35,458 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebModule, Abp.Web, Version=2.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-02-26 21:09:35,458 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=2.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-02-26 21:09:35,459 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=2.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-02-26 21:09:35,459 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpZeroOwinModule, Abp.Zero.Owin, Version=2.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-02-26 21:09:35,459 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.Zero, Version=2.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-02-26 21:09:35,459 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=2.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-02-26 21:09:35,459 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: MyCompanyName.AbpZeroTemplate.AbpZeroTemplateDataModule, MyCompanyName.AbpZeroTemplate.EntityFramework, Version=4.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-02-26 21:09:35,459 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFramework.AbpZeroEntityFrameworkModule, Abp.Zero.EntityFramework, Version=2.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-02-26 21:09:35,460 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkModule, Abp.EntityFramework, Version=2.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-02-26 21:09:35,460 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=2.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-02-26 21:09:35,460 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: MyCompanyName.AbpZeroTemplate.AbpZeroTemplateCoreModule, MyCompanyName.AbpZeroTemplate.Core, Version=4.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-02-26 21:09:35,460 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.Ldap.AbpZeroLdapModule, Abp.Zero.Ldap, Version=2.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-02-26 21:09:35,460 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=2.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-02-26 21:09:35,461 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: MyCompanyName.AbpZeroTemplate.AbpZeroTemplateApplicationModule, MyCompanyName.AbpZeroTemplate.Application, Version=4.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-02-26 21:09:35,461 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: MyCompanyName.AbpZeroTemplate.WebApi.AbpZeroTemplateWebApiModule, MyCompanyName.AbpZeroTemplate.WebApi, Version=4.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-02-26 21:09:35,461 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.WebApi.AbpWebApiModule, Abp.Web.Api, Version=2.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-02-26 21:09:35,461 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.SignalR.AbpWebSignalRModule, Abp.Web.SignalR, Version=2.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-02-26 21:09:35,461 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Runtime.Caching.Redis.AbpRedisCacheModule, Abp.RedisCache, Version=2.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-02-26 21:09:35,461 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Hangfire.AbpHangfireModule, Abp.HangFire, Version=2.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-02-26 21:09:35,464 [1    ] Abp.Modules.AbpModuleManager             - 21 modules loaded.
+DEBUG 2018-02-26 21:09:35,852 [1    ] o.Configuration.LanguageManagementConfig - Converted Abp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2018-02-26 21:09:35,852 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpWeb (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2018-02-26 21:09:35,852 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpZero (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2018-02-26 21:09:35,852 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpZeroTemplate (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2018-02-26 21:09:36,562 [1    ] EntityFramework.AbpEntityFrameworkModule - Registering DbContext: MyCompanyName.AbpZeroTemplate.EntityFramework.AbpZeroTemplateDbContext, MyCompanyName.AbpZeroTemplate.EntityFramework, Version=4.4.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2018-02-26 21:09:43,162 [1    ] Abp.Localization.LocalizationManager     - Initializing 4 localization sources.
+DEBUG 2018-02-26 21:09:43,241 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2018-02-26 21:09:43,242 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2018-02-26 21:09:43,246 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2018-02-26 21:09:43,256 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZeroTemplate
+DEBUG 2018-02-26 21:09:43,326 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2018-02-26 21:09:44,197 [1    ] Abp.Owin.OwinUserTokenProviderAccessor   - DataProtectionProvider has not been set yet.
+DEBUG 2018-02-26 21:09:44,406 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 35 classes define auto mapping attributes
+DEBUG 2018-02-26 21:09:44,406 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - MyCompanyName.AbpZeroTemplate.Friendships.Cache.FriendCacheItem
+DEBUG 2018-02-26 21:09:44,409 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - MyCompanyName.AbpZeroTemplate.Sessions.Dto.TenantLoginInfoDto
+DEBUG 2018-02-26 21:09:44,409 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - MyCompanyName.AbpZeroTemplate.Sessions.Dto.UserLoginInfoDto
+DEBUG 2018-02-26 21:09:44,409 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - MyCompanyName.AbpZeroTemplate.Organizations.Dto.OrganizationUnitDto
+DEBUG 2018-02-26 21:09:44,409 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - MyCompanyName.AbpZeroTemplate.Organizations.Dto.OrganizationUnitUserListDto
+DEBUG 2018-02-26 21:09:44,409 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - MyCompanyName.AbpZeroTemplate.Notifications.Dto.NotificationSubscriptionWithDisplayNameDto
+DEBUG 2018-02-26 21:09:44,409 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - MyCompanyName.AbpZeroTemplate.MultiTenancy.Dto.TenantListDto
+DEBUG 2018-02-26 21:09:44,409 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - MyCompanyName.AbpZeroTemplate.MultiTenancy.Dto.TenantEditDto
+DEBUG 2018-02-26 21:09:44,409 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - MyCompanyName.AbpZeroTemplate.Localization.Dto.ApplicationLanguageEditDto
+DEBUG 2018-02-26 21:09:44,410 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - MyCompanyName.AbpZeroTemplate.Localization.Dto.ApplicationLanguageListDto
+DEBUG 2018-02-26 21:09:44,410 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - MyCompanyName.AbpZeroTemplate.Friendships.Dto.FriendDto
+DEBUG 2018-02-26 21:09:44,410 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - MyCompanyName.AbpZeroTemplate.Editions.Dto.EditionEditDto
+DEBUG 2018-02-26 21:09:44,410 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - MyCompanyName.AbpZeroTemplate.Editions.Dto.FlatFeatureDto
+DEBUG 2018-02-26 21:09:44,410 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - MyCompanyName.AbpZeroTemplate.Editions.Dto.EditionListDto
+DEBUG 2018-02-26 21:09:44,410 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - MyCompanyName.AbpZeroTemplate.Chat.Dto.ChatMessageDto
+DEBUG 2018-02-26 21:09:44,410 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - MyCompanyName.AbpZeroTemplate.Chat.Dto.ChatUserDto
+DEBUG 2018-02-26 21:09:44,410 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - MyCompanyName.AbpZeroTemplate.Chat.Dto.ChatUserWithMessagesDto
+DEBUG 2018-02-26 21:09:44,410 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - MyCompanyName.AbpZeroTemplate.Authorization.Users.Profile.Dto.CurrentUserProfileEditDto
+DEBUG 2018-02-26 21:09:44,410 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - MyCompanyName.AbpZeroTemplate.Authorization.Users.Dto.UserLoginAttemptDto
+DEBUG 2018-02-26 21:09:44,410 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - MyCompanyName.AbpZeroTemplate.Authorization.Users.Dto.UserListDto
+DEBUG 2018-02-26 21:09:44,410 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - MyCompanyName.AbpZeroTemplate.Authorization.Roles.Dto.RoleListDto
+DEBUG 2018-02-26 21:09:44,410 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - MyCompanyName.AbpZeroTemplate.Authorization.Roles.Dto.RoleEditDto
+DEBUG 2018-02-26 21:09:44,410 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - MyCompanyName.AbpZeroTemplate.Authorization.Permissions.Dto.FlatPermissionDto
+DEBUG 2018-02-26 21:09:44,410 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - MyCompanyName.AbpZeroTemplate.Authorization.Permissions.Dto.FlatPermissionWithLevelDto
+DEBUG 2018-02-26 21:09:44,410 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - MyCompanyName.AbpZeroTemplate.Auditing.Dto.AuditLogListDto
+DEBUG 2018-02-26 21:09:44,410 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - MyCompanyName.AbpZeroTemplate.Authorization.Users.Dto.UserListDto+UserListRoleDto
+DEBUG 2018-02-26 21:09:44,410 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - MyCompanyName.AbpZeroTemplate.Web.Areas.Mpa.Models.Users.UserPermissionsEditViewModel
+DEBUG 2018-02-26 21:09:44,410 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - MyCompanyName.AbpZeroTemplate.Web.Areas.Mpa.Models.Users.CreateOrEditUserModalViewModel
+DEBUG 2018-02-26 21:09:44,410 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - MyCompanyName.AbpZeroTemplate.Web.Areas.Mpa.Models.Profile.MySettingsViewModel
+DEBUG 2018-02-26 21:09:44,410 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - MyCompanyName.AbpZeroTemplate.Web.Areas.Mpa.Models.Editions.CreateOrEditEditionModalViewModel
+DEBUG 2018-02-26 21:09:44,410 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - MyCompanyName.AbpZeroTemplate.Web.Areas.Mpa.Models.Tenants.TenantFeaturesEditViewModel
+DEBUG 2018-02-26 21:09:44,410 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - MyCompanyName.AbpZeroTemplate.Web.Areas.Mpa.Models.Roles.CreateOrEditRoleModalViewModel
+DEBUG 2018-02-26 21:09:44,410 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - MyCompanyName.AbpZeroTemplate.Web.Areas.Mpa.Models.OrganizationUnits.EditOrganizationUnitModalViewModel
+DEBUG 2018-02-26 21:09:44,411 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - MyCompanyName.AbpZeroTemplate.Web.Areas.Mpa.Models.Languages.CreateOrEditLanguageModalViewModel
+DEBUG 2018-02-26 21:09:44,411 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - MyCompanyName.AbpZeroTemplate.Web.Models.Account.TenantSelectionViewModel+TenantInfo
+DEBUG 2018-02-26 21:09:45,038 [1    ] Abp.Owin.OwinUserTokenProviderAccessor   - DataProtectionProvider has not been set yet.
+DEBUG 2018-02-26 21:09:45,056 [1    ] Abp.Owin.OwinUserTokenProviderAccessor   - DataProtectionProvider has not been set yet.
+DEBUG 2018-02-26 21:09:45,065 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'MyCompanyName.AbpZeroTemplate.Timing.ITimingAppService' with service name 'app/timing'.
+DEBUG 2018-02-26 21:09:45,065 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'MyCompanyName.AbpZeroTemplate.Tenants.Dashboard.ITenantDashboardAppService' with service name 'app/tenantDashboard'.
+DEBUG 2018-02-26 21:09:45,066 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'MyCompanyName.AbpZeroTemplate.Sessions.ISessionAppService' with service name 'app/session'.
+DEBUG 2018-02-26 21:09:45,067 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'MyCompanyName.AbpZeroTemplate.Organizations.IOrganizationUnitAppService' with service name 'app/organizationUnit'.
+DEBUG 2018-02-26 21:09:45,068 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'MyCompanyName.AbpZeroTemplate.Notifications.INotificationAppService' with service name 'app/notification'.
+DEBUG 2018-02-26 21:09:45,069 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'MyCompanyName.AbpZeroTemplate.MultiTenancy.ITenantAppService' with service name 'app/tenant'.
+DEBUG 2018-02-26 21:09:45,069 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'MyCompanyName.AbpZeroTemplate.Logging.IWebLogAppService' with service name 'app/webLog'.
+DEBUG 2018-02-26 21:09:45,070 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'MyCompanyName.AbpZeroTemplate.Localization.ILanguageAppService' with service name 'app/language'.
+DEBUG 2018-02-26 21:09:45,071 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'MyCompanyName.AbpZeroTemplate.Friendships.IFriendshipAppService' with service name 'app/friendship'.
+DEBUG 2018-02-26 21:09:45,072 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'MyCompanyName.AbpZeroTemplate.Editions.IEditionAppService' with service name 'app/edition'.
+DEBUG 2018-02-26 21:09:45,072 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'MyCompanyName.AbpZeroTemplate.Configuration.Tenants.ITenantSettingsAppService' with service name 'app/tenantSettings'.
+DEBUG 2018-02-26 21:09:45,073 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'MyCompanyName.AbpZeroTemplate.Configuration.Host.IHostSettingsAppService' with service name 'app/hostSettings'.
+DEBUG 2018-02-26 21:09:45,074 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'MyCompanyName.AbpZeroTemplate.Common.ICommonLookupAppService' with service name 'app/commonLookup'.
+DEBUG 2018-02-26 21:09:45,075 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'MyCompanyName.AbpZeroTemplate.Chat.IChatAppService' with service name 'app/chat'.
+DEBUG 2018-02-26 21:09:45,076 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'MyCompanyName.AbpZeroTemplate.Caching.ICachingAppService' with service name 'app/caching'.
+DEBUG 2018-02-26 21:09:45,076 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'MyCompanyName.AbpZeroTemplate.Authorization.Users.IUserLinkAppService' with service name 'app/userLink'.
+DEBUG 2018-02-26 21:09:45,077 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'MyCompanyName.AbpZeroTemplate.Authorization.Users.IUserLoginAppService' with service name 'app/userLogin'.
+DEBUG 2018-02-26 21:09:45,078 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'MyCompanyName.AbpZeroTemplate.Authorization.Users.IUserAppService' with service name 'app/user'.
+DEBUG 2018-02-26 21:09:45,079 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'MyCompanyName.AbpZeroTemplate.Authorization.Users.Profile.IProfileAppService' with service name 'app/profile'.
+DEBUG 2018-02-26 21:09:45,080 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'MyCompanyName.AbpZeroTemplate.Authorization.Roles.IRoleAppService' with service name 'app/role'.
+DEBUG 2018-02-26 21:09:45,080 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'MyCompanyName.AbpZeroTemplate.Authorization.Permissions.IPermissionAppService' with service name 'app/permission'.
+DEBUG 2018-02-26 21:09:45,081 [1    ] Abp.Logging.LogHelper                    - Dynamic web api controller is created for type 'MyCompanyName.AbpZeroTemplate.Auditing.IAuditLogAppService' with service name 'app/auditLog'.
+WARN  2018-02-26 21:10:09,813 [15   ] naries.DictionaryBasedLocalizationSource - Can not find 'NewTenant' in localization source 'AbpZeroTemplate'!
+WARN  2018-02-26 21:10:09,813 [16   ] naries.DictionaryBasedLocalizationSource - Can not find 'NewTenant' in localization source 'AbpZeroTemplate'!
+WARN  2018-02-26 21:11:05,938 [26   ] naries.DictionaryBasedLocalizationSource - Can not find 'OrganizationUnits' in localization source 'AbpZeroTemplate'!
+WARN  2018-02-26 21:11:05,941 [26   ] naries.DictionaryBasedLocalizationSource - Can not find 'Maintenance' in localization source 'AbpZeroTemplate'!
+WARN  2018-02-26 21:11:05,952 [26   ] naries.DictionaryBasedLocalizationSource - Can not find 'OrganizationUnits' in localization source 'AbpZeroTemplate'!
+WARN  2018-02-26 21:11:05,955 [26   ] naries.DictionaryBasedLocalizationSource - Can not find 'Maintenance' in localization source 'AbpZeroTemplate'!
+WARN  2018-02-26 21:11:06,516 [11   ] naries.DictionaryBasedLocalizationSource - Can not find 'ChatUserSearch_Hint' in localization source 'AbpZeroTemplate'!
+WARN  2018-02-26 21:11:06,517 [11   ] naries.DictionaryBasedLocalizationSource - Can not find 'FilterOrAddUser' in localization source 'AbpZeroTemplate'!
+WARN  2018-02-26 21:11:06,517 [11   ] naries.DictionaryBasedLocalizationSource - Can not find 'AddFriend' in localization source 'AbpZeroTemplate'!
+WARN  2018-02-26 21:11:06,517 [11   ] naries.DictionaryBasedLocalizationSource - Can not find 'Friends' in localization source 'AbpZeroTemplate'!
+WARN  2018-02-26 21:11:06,518 [11   ] naries.DictionaryBasedLocalizationSource - Can not find 'YouDontHaveAnyFriend' in localization source 'AbpZeroTemplate'!
+WARN  2018-02-26 21:11:06,518 [11   ] naries.DictionaryBasedLocalizationSource - Can not find 'BlockedUsers' in localization source 'AbpZeroTemplate'!
+WARN  2018-02-26 21:11:06,519 [11   ] naries.DictionaryBasedLocalizationSource - Can not find 'YouDontHaveAnyBlockedFriend' in localization source 'AbpZeroTemplate'!
+WARN  2018-02-26 21:11:06,519 [11   ] naries.DictionaryBasedLocalizationSource - Can not find 'BlockUser' in localization source 'AbpZeroTemplate'!
+WARN  2018-02-26 21:11:06,520 [11   ] naries.DictionaryBasedLocalizationSource - Can not find 'UnblockUser' in localization source 'AbpZeroTemplate'!
+WARN  2018-02-26 21:11:06,521 [11   ] naries.DictionaryBasedLocalizationSource - Can not find 'UnblockUser' in localization source 'AbpZeroTemplate'!
+WARN  2018-02-26 21:11:06,521 [11   ] naries.DictionaryBasedLocalizationSource - Can not find 'TypeAMessageHere' in localization source 'AbpZeroTemplate'!
+WARN  2018-02-26 21:11:08,236 [27   ] naries.DictionaryBasedLocalizationSource - Can not find 'SetAllAsRead' in localization source 'AbpZeroTemplate'!
+WARN  2018-02-26 21:11:08,236 [27   ] naries.DictionaryBasedLocalizationSource - Can not find 'SetAsRead' in localization source 'AbpZeroTemplate'!
+WARN  2018-02-26 21:11:08,237 [27   ] naries.DictionaryBasedLocalizationSource - Can not find 'ThereIsNoNotification' in localization source 'AbpZeroTemplate'!
+WARN  2018-02-26 21:11:08,237 [27   ] naries.DictionaryBasedLocalizationSource - Can not find 'SeeAllNotifications' in localization source 'AbpZeroTemplate'!
+WARN  2018-02-26 21:11:08,237 [27   ] naries.DictionaryBasedLocalizationSource - Can not find 'YouCanBackToYourAccount' in localization source 'AbpZeroTemplate'!
+WARN  2018-02-26 21:11:08,237 [27   ] naries.DictionaryBasedLocalizationSource - Can not find 'BackToMyAccount' in localization source 'AbpZeroTemplate'!
+WARN  2018-02-26 21:11:08,238 [27   ] naries.DictionaryBasedLocalizationSource - Can not find 'LinkedAccounts' in localization source 'AbpZeroTemplate'!
+WARN  2018-02-26 21:11:08,238 [27   ] naries.DictionaryBasedLocalizationSource - Can not find 'ManageAccounts' in localization source 'AbpZeroTemplate'!
+WARN  2018-02-26 21:11:08,239 [27   ] naries.DictionaryBasedLocalizationSource - Can not find 'LoginAttempts' in localization source 'AbpZeroTemplate'!
+DEBUG 2018-02-26 21:11:11,666 [31   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"678c78d1-dce0-48e9-9c4f-4a36a92a3e30","IpAddress":"::1","TenantId":null,"UserId":1,"ConnectTime":"2018-02-26T13:11:11.6634227Z","Properties":{}}
+DEBUG 2018-02-26 21:11:12,377 [26   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is registered: 678c78d1-dce0-48e9-9c4f-4a36a92a3e30
+WARN  2018-02-26 21:11:44,269 [17   ] naries.DictionaryBasedLocalizationSource - Can not find 'TenantsHeaderInfo1' in localization source 'AbpZeroTemplate'!
+WARN  2018-02-26 21:11:45,747 [17   ] naries.DictionaryBasedLocalizationSource - Can not find 'LinkedAccounts' in localization source 'AbpZeroTemplate'!
+WARN  2018-02-26 21:11:45,747 [17   ] naries.DictionaryBasedLocalizationSource - Can not find 'LoginAttempts' in localization source 'AbpZeroTemplate'!
+WARN  2018-02-26 21:11:45,748 [17   ] naries.DictionaryBasedLocalizationSource - Can not find 'ManageAccounts' in localization source 'AbpZeroTemplate'!
+WARN  2018-02-26 21:11:45,749 [17   ] naries.DictionaryBasedLocalizationSource - Can not find 'SetAllAsRead' in localization source 'AbpZeroTemplate'!
+WARN  2018-02-26 21:11:45,749 [17   ] naries.DictionaryBasedLocalizationSource - Can not find 'SetAsRead' in localization source 'AbpZeroTemplate'!
+WARN  2018-02-26 21:11:45,750 [17   ] naries.DictionaryBasedLocalizationSource - Can not find 'ThereIsNoNotification' in localization source 'AbpZeroTemplate'!
+WARN  2018-02-26 21:11:45,750 [17   ] naries.DictionaryBasedLocalizationSource - Can not find 'SeeAllNotifications' in localization source 'AbpZeroTemplate'!
+WARN  2018-02-26 21:11:47,403 [17   ] naries.DictionaryBasedLocalizationSource - Can not find 'OrganizationUnits' in localization source 'AbpZeroTemplate'!
+WARN  2018-02-26 21:11:47,408 [17   ] naries.DictionaryBasedLocalizationSource - Can not find 'Maintenance' in localization source 'AbpZeroTemplate'!
+WARN  2018-02-26 21:11:47,439 [17   ] naries.DictionaryBasedLocalizationSource - Can not find 'ChatUserSearch_Hint' in localization source 'AbpZeroTemplate'!
+WARN  2018-02-26 21:11:47,439 [17   ] naries.DictionaryBasedLocalizationSource - Can not find 'FilterOrAddUser' in localization source 'AbpZeroTemplate'!
+WARN  2018-02-26 21:11:47,440 [17   ] naries.DictionaryBasedLocalizationSource - Can not find 'AddFriend' in localization source 'AbpZeroTemplate'!
+WARN  2018-02-26 21:11:47,440 [17   ] naries.DictionaryBasedLocalizationSource - Can not find 'Friends' in localization source 'AbpZeroTemplate'!
+WARN  2018-02-26 21:11:47,440 [17   ] naries.DictionaryBasedLocalizationSource - Can not find 'YouDontHaveAnyFriend' in localization source 'AbpZeroTemplate'!
+WARN  2018-02-26 21:11:47,441 [17   ] naries.DictionaryBasedLocalizationSource - Can not find 'BlockedUsers' in localization source 'AbpZeroTemplate'!
+WARN  2018-02-26 21:11:47,441 [17   ] naries.DictionaryBasedLocalizationSource - Can not find 'YouDontHaveAnyBlockedFriend' in localization source 'AbpZeroTemplate'!
+WARN  2018-02-26 21:11:47,441 [17   ] naries.DictionaryBasedLocalizationSource - Can not find 'BlockUser' in localization source 'AbpZeroTemplate'!
+WARN  2018-02-26 21:11:47,442 [17   ] naries.DictionaryBasedLocalizationSource - Can not find 'UnblockUser' in localization source 'AbpZeroTemplate'!
+WARN  2018-02-26 21:11:47,442 [17   ] naries.DictionaryBasedLocalizationSource - Can not find 'UnblockUser' in localization source 'AbpZeroTemplate'!
+WARN  2018-02-26 21:11:47,442 [17   ] naries.DictionaryBasedLocalizationSource - Can not find 'TypeAMessageHere' in localization source 'AbpZeroTemplate'!
+DEBUG 2018-02-26 21:11:48,745 [24   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is disconnected: 678c78d1-dce0-48e9-9c4f-4a36a92a3e30
+WARN  2018-02-26 21:11:49,533 [24   ] naries.DictionaryBasedLocalizationSource - Can not find 'OrganizationUnits' in localization source 'AbpZeroTemplate'!
+WARN  2018-02-26 21:11:49,536 [24   ] naries.DictionaryBasedLocalizationSource - Can not find 'Maintenance' in localization source 'AbpZeroTemplate'!
+WARN  2018-02-26 21:11:49,545 [24   ] naries.DictionaryBasedLocalizationSource - Can not find 'OrganizationUnits' in localization source 'AbpZeroTemplate'!
+WARN  2018-02-26 21:11:49,548 [24   ] naries.DictionaryBasedLocalizationSource - Can not find 'Maintenance' in localization source 'AbpZeroTemplate'!
+DEBUG 2018-02-26 21:11:49,825 [31   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is connected: {"ConnectionId":"33666b93-208f-442a-8868-ae678513ff1c","IpAddress":"::1","TenantId":null,"UserId":1,"ConnectTime":"2018-02-26T13:11:49.8256054Z","Properties":{}}
+DEBUG 2018-02-26 21:11:49,865 [36   ] Abp.Web.SignalR.Hubs.AbpCommonHub        - A client is registered: 33666b93-208f-442a-8868-ae678513ff1c
+WARN  2018-02-26 21:11:58,663 [31   ] naries.DictionaryBasedLocalizationSource - Can not find 'LinkedAccounts' in localization source 'AbpZeroTemplate'!
+WARN  2018-02-26 21:11:58,664 [31   ] naries.DictionaryBasedLocalizationSource - Can not find 'LoginAttempts' in localization source 'AbpZeroTemplate'!
+WARN  2018-02-26 21:11:58,665 [31   ] naries.DictionaryBasedLocalizationSource - Can not find 'ManageAccounts' in localization source 'AbpZeroTemplate'!
+WARN  2018-02-26 21:11:58,665 [31   ] naries.DictionaryBasedLocalizationSource - Can not find 'SetAllAsRead' in localization source 'AbpZeroTemplate'!
+WARN  2018-02-26 21:11:58,666 [31   ] naries.DictionaryBasedLocalizationSource - Can not find 'SetAsRead' in localization source 'AbpZeroTemplate'!
+WARN  2018-02-26 21:11:58,666 [31   ] naries.DictionaryBasedLocalizationSource - Can not find 'ThereIsNoNotification' in localization source 'AbpZeroTemplate'!
+WARN  2018-02-26 21:11:58,666 [31   ] naries.DictionaryBasedLocalizationSource - Can not find 'SeeAllNotifications' in localization source 'AbpZeroTemplate'!
+WARN  2018-02-26 21:12:00,323 [31   ] naries.DictionaryBasedLocalizationSource - Can not find 'OrganizationUnits' in localization source 'AbpZeroTemplate'!
+WARN  2018-02-26 21:12:00,326 [31   ] naries.DictionaryBasedLocalizationSource - Can not find 'Maintenance' in localization source 'AbpZeroTemplate'!
+WARN  2018-02-26 21:12:00,344 [31   ] naries.DictionaryBasedLocalizationSource - Can not find 'ChatUserSearch_Hint' in localization source 'AbpZeroTemplate'!
+WARN  2018-02-26 21:12:00,344 [31   ] naries.DictionaryBasedLocalizationSource - Can not find 'FilterOrAddUser' in localization source 'AbpZeroTemplate'!
+WARN  2018-02-26 21:12:00,345 [31   ] naries.DictionaryBasedLocalizationSource - Can not find 'AddFriend' in localization source 'AbpZeroTemplate'!
+WARN  2018-02-26 21:12:00,345 [31   ] naries.DictionaryBasedLocalizationSource - Can not find 'Friends' in localization source 'AbpZeroTemplate'!
+WARN  2018-02-26 21:12:00,345 [31   ] naries.DictionaryBasedLocalizationSource - Can not find 'YouDontHaveAnyFriend' in localization source 'AbpZeroTemplate'!
+WARN  2018-02-26 21:12:00,346 [31   ] naries.DictionaryBasedLocalizationSource - Can not find 'BlockedUsers' in localization source 'AbpZeroTemplate'!
+WARN  2018-02-26 21:12:00,346 [31   ] naries.DictionaryBasedLocalizationSource - Can not find 'YouDontHaveAnyBlockedFriend' in localization source 'AbpZeroTemplate'!
+WARN  2018-02-26 21:12:00,347 [31   ] naries.DictionaryBasedLocalizationSource - Can not find 'BlockUser' in localization source 'AbpZeroTemplate'!
+WARN  2018-02-26 21:12:00,347 [31   ] naries.DictionaryBasedLocalizationSource - Can not find 'UnblockUser' in localization source 'AbpZeroTemplate'!
+WARN  2018-02-26 21:12:00,347 [31   ] naries.DictionaryBasedLocalizationSource - Can not find 'UnblockUser' in localization source 'AbpZeroTemplate'!
+WARN  2018-02-26 21:12:00,348 [31   ] naries.DictionaryBasedLocalizationSource - Can not find 'TypeAMessageHere' in localization source 'AbpZeroTemplate'!
+WARN  2018-02-26 21:12:00,925 [17   ] naries.DictionaryBasedLocalizationSource - Can not find 'LinkedAccounts' in localization source 'AbpZeroTemplate'!
+WARN  2018-02-26 21:12:00,926 [17   ] naries.DictionaryBasedLocalizationSource - Can not find 'LoginAttempts' in localization source 'AbpZeroTemplate'!
+WARN  2018-02-26 21:12:00,927 [17   ] naries.DictionaryBasedLocalizationSource - Can not find 'ManageAccounts' in localization source 'AbpZeroTemplate'!
+WARN  2018-02-26 21:12:00,927 [17   ] naries.DictionaryBasedLocalizationSource - Can not find 'SetAllAsRead' in localization source 'AbpZeroTemplate'!
+WARN  2018-02-26 21:12:00,927 [17   ] naries.DictionaryBasedLocalizationSource - Can not find 'SetAsRead' in localization source 'AbpZeroTemplate'!
+WARN  2018-02-26 21:12:00,928 [17   ] naries.DictionaryBasedLocalizationSource - Can not find 'ThereIsNoNotification' in localization source 'AbpZeroTemplate'!
+WARN  2018-02-26 21:12:00,928 [17   ] naries.DictionaryBasedLocalizationSource - Can not find 'SeeAllNotifications' in localization source 'AbpZeroTemplate'!

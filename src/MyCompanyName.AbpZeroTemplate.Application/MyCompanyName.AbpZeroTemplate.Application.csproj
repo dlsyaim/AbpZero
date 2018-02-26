@@ -287,6 +287,10 @@
     <Compile Include="Organizations\Dto\MoveOrganizationUnitInput.cs" />
     <Compile Include="Organizations\OrganizationUnitAppService.cs" />
     <Compile Include="Organizations\Dto\OrganizationUnitUserListDto.cs" />
+    <Compile Include="ProductApp\Dto\IOutputDto.cs" />
+    <Compile Include="ProductApp\Dto\ProductOutput.cs" />
+    <Compile Include="ProductApp\IProductAppService.cs" />
+    <Compile Include="ProductApp\ProductAppService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Sessions\Dto\GetCurrentLoginInformationsOutput.cs" />
     <Compile Include="Sessions\Dto\TenantLoginInfoDto.cs" />

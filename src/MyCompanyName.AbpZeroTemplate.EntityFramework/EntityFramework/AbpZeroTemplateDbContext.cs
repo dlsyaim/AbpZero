@@ -4,6 +4,7 @@ using Abp.Zero.EntityFramework;
 using MyCompanyName.AbpZeroTemplate.Authorization.Roles;
 using MyCompanyName.AbpZeroTemplate.Authorization.Users;
 using MyCompanyName.AbpZeroTemplate.Chat;
+using MyCompanyName.AbpZeroTemplate.Entities;
 using MyCompanyName.AbpZeroTemplate.Friendships;
 using MyCompanyName.AbpZeroTemplate.MultiTenancy;
 using MyCompanyName.AbpZeroTemplate.Storage;
@@ -23,6 +24,8 @@ namespace MyCompanyName.AbpZeroTemplate.EntityFramework
         /* Define an IDbSet for each entity of the application */
 
         public virtual IDbSet<BinaryObject> BinaryObjects { get; set; }
+
+        public virtual IDbSet<Product> Products { get; set; }
 
         public virtual IDbSet<Friendship> Friendships { get; set; }
 

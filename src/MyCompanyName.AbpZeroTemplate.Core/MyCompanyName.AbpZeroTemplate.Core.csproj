@@ -168,6 +168,7 @@
     <Compile Include="Emailing\AbpZeroTemplateSmtpEmailSenderConfiguration.cs" />
     <Compile Include="Emailing\EmailTemplateProvider.cs" />
     <Compile Include="Emailing\IEmailTemplateProvider.cs" />
+    <Compile Include="Entities\Product.cs" />
     <Compile Include="Features\AppFeatureProvider.cs" />
     <Compile Include="Features\AppFeatures.cs" />
     <Compile Include="Friendships\Cache\FriendCacheItemExtensions.cs" />
@@ -184,6 +185,7 @@
     <Compile Include="Friendships\IFriendshipManager.cs" />
     <Compile Include="IAppFolders.cs" />
     <Compile Include="Identity\IdentitySmsMessageService.cs" />
+    <Compile Include="IRepositories\IProductRepository.cs" />
     <Compile Include="Localization\CultureHelper.cs" />
     <Compile Include="MultiTenancy\Demo\RandomUserGenerator.cs" />
     <Compile Include="MultiTenancy\Tenant.cs" />
