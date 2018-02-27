@@ -287,6 +287,7 @@
     <Compile Include="Organizations\Dto\MoveOrganizationUnitInput.cs" />
     <Compile Include="Organizations\OrganizationUnitAppService.cs" />
     <Compile Include="Organizations\Dto\OrganizationUnitUserListDto.cs" />
+    <Compile Include="ProductApp\Dto\GetProductsInput.cs" />
     <Compile Include="ProductApp\Dto\IOutputDto.cs" />
     <Compile Include="ProductApp\Dto\ProductOutput.cs" />
     <Compile Include="ProductApp\IProductAppService.cs" />
