@@ -526,6 +526,7 @@
     </Content>
     <Content Include="App\host\views\tenants\featuresModal.js" />
     <Content Include="Areas\Mpa\Common\Scripts\readme.txt" />
+    <Content Include="Areas\Mpa\Views\Product\Index.js" />
     <Content Include="Common\Images\app-logo-small.png" />
     <Content Include="Common\Images\logo.png" />
     <Content Include="Common\Scripts\jquery-validation-custom.js" />
@@ -2234,6 +2235,7 @@
     <Content Include="fonts\open-sans\open-sans-v14-greek_cyrillic-ext_cyrillic_latin_latin-ext_greek-ext_vietnamese-regular.woff" />
     <Content Include="fonts\open-sans\open-sans-v14-greek_cyrillic-ext_cyrillic_latin_latin-ext_greek-ext_vietnamese-regular.woff2" />
     <Content Include="Areas\Mpa\Views\Basicdata\Index.cshtml" />
+    <Content Include="Areas\Mpa\Views\Product\Index.cshtml" />
     <None Include="Properties\PublishProfiles\aspnetzero - Web Deploy.pubxml" />
     <None Include="Scripts\jquery-1.6.4-vsdoc.js" />
     <Content Include="Scripts\i18n\angular-locale_af-na.js" />
@@ -3002,6 +3004,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Areas\Mpa\Controllers\BasicdataController.cs" />
+    <Compile Include="Areas\Mpa\Controllers\ProductController.cs" />
     <Compile Include="Models\Layout\TenantCustomCssViewModel.cs" />
     <Compile Include="Areas\Mpa\Startup\UserMenuItemExtensions.cs" />
     <Compile Include="App_Start\Bundling\CssRewriteUrlWithVirtualDirectoryTransform.cs" />
